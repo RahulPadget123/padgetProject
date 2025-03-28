@@ -1,0 +1,106 @@
+Model : C3F
+Std_M.P : 23
+Actual_M.P : 23
+Std_UPH : 400
+Actual_UPH : 401
+Project: Xiaomi---->
+
+Model : C3FP
+Std_M.P : 23
+Actual_M.P : 22
+Std_UPH : 400
+Actual_UPH : 480
+Project: Xiaomi---->
+
+Model : C3FP
+Std_M.P : 23
+Actual_M.P : 22
+Std_UPH : 400
+Actual_UPH : 375
+Project: Xiaomi---->
+
+Model : C3F2P
+Std_M.P : 23
+Actual_M.P : 24
+Std_UPH : 400
+Actual_UPH : 358
+Project: Xiaomi---->
+
+Model : C3FP
+Std_M.P : 16
+Actual_M.P : 13
+Std_UPH : 1080
+Actual_UPH : 1719
+Project: Xiaomi---->
+
+Model : E-14
+Std_M.P : 23
+Actual_M.P : 23
+Std_UPH : 90
+Actual_UPH : 80
+Project: Lenovo---->
+
+Model : Malmo
+Std_M.P : 35
+Actual_M.P : 35
+Std_UPH : 400
+Actual_UPH : 365
+Project: Moto---->
+
+Model : Malmo
+Std_M.P : 35
+Actual_M.P : 35
+Std_UPH : 400
+Actual_UPH : 323
+Project: Moto
+
+
+Model : Vegas
+Std_M.P : 35
+Actual_M.P : 35
+Std_UPH : 281
+Actual_UPH : 352
+Project: Moto---->
+
+Model : Manila
+Std_M.P : 39
+Actual_M.P : 35
+Std_UPH : 319
+Actual_UPH : 306
+Project: Moto---->
+
+
+Model : Kansas
+Std_M.P : 35
+Actual_M.P : 35
+Std_UPH : 281
+Actual_UPH : 271
+Project: Moto---->
+
+Model : Fogo
+Std_M.P : 38
+Actual_M.P : 35
+Std_UPH : 300
+Actual_UPH : 330
+Project: Moto---->
+
+Model : Milos
+Std_M.P : 35
+Actual_M.P : 35
+Std_UPH : 281
+Actual_UPH : 300
+Project: Moto---->
+
+Model : Casco 5G
+Std_M.P : 38
+Actual_M.P : 7
+Std_UPH : 2200
+Actual_UPH : 2343
+Project: Moto---->
+
+Model : Malmo
+Std_M.P : 19
+Actual_M.P : 18
+Std_UPH : 300
+Actual_UPH : 632
+Project: Moto---->
