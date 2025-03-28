@@ -12,12 +12,9 @@ const detailsRouter = require('./routers/details');
 //database connection
 // ...existing code...
 //database connection
-// connectMongoDB(process.env.MONGO_URL)
-//     .then(() => console.log('Connected to MongoDB'))
-//     .catch(err => console.log(err));
-
-connectMongoDB();
-
+connectMongoDB(process.env.MONGO_URL)
+    .then(() => console.log('Connected to MongoDB'))
+    .catch(err => console.log(err));
 // ...existing code...
 
 app.use(cookieParser());
